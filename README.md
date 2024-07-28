@@ -2,7 +2,7 @@
 
 Welcome to the repository for my portfolio website! This project showcases my skills, experience, services i provide and projects as a developer.
 
-[Visit my Portfolio 🌐](https://tusharbhardwa.github.io/Portfolio/)
+[Visit my Portfolio ↗](https://tusharbhardwa.github.io/Portfolio/)
 
 ## Table of Contents
 
