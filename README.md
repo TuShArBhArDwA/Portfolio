@@ -2,7 +2,7 @@
 
 Welcome to the repository for my portfolio website! This project showcases my skills, experience, services i provide and projects as a developer.
 
-[Visit my Portfolio](https://tusharbhardwa.github.io/Portfolio/)
+[Visit my Portfolio 🌐](https://tusharbhardwa.github.io/Portfolio/)
 
 ## Table of Contents
 
@@ -81,6 +81,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 Feel free to reach out if you have any questions or suggestions!
 
-- **Topmate:** [Connect 1:1](https://topmate.io/tusharbhardwaj)
-- **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
+- **Topmate:** [Connect 1:1](https://topmate.io/tusharbhardwaj) 👥
+- **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com) 📥
+- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/) 🧑‍💻
