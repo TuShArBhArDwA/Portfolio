@@ -1,8 +1,6 @@
 # Portfolio Website
 ![image](https://github.com/user-attachments/assets/5e5c5a23-2cee-4937-8fad-ac04717f7296)
 
-[Visit my Portfolio 🌐↗](https://tusharbhardwaj.vercel.app/)
-
 Welcome to the repository for my portfolio website! This project showcases my skills, experience, services i provide and projects as a developer.
 
 ## Table of Contents
@@ -10,6 +8,7 @@ Welcome to the repository for my portfolio website! This project showcases my sk
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Live Demo](#live-demo)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Projects](#projects)
@@ -37,6 +36,10 @@ This portfolio website is designed to highlight my work, skills and services. It
 - **CSS3**
 - **JavaScript**
 - **Tailwind CSS** 
+
+## Live Demo
+
+You can view the live version of my portfolio website at: [Visit my Portfolio 🌐↗](https://tusharbhardwaj.vercel.app/)
 
 ## Setup and Installation
 
