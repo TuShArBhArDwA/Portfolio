@@ -1,5 +1,6 @@
 # Portfolio Website
-![image](https://github.com/user-attachments/assets/5e5c5a23-2cee-4937-8fad-ac04717f7296)
+![image](https://github.com/user-attachments/assets/781e622f-911f-42c9-8a0d-90b33dfbba25)
+
 
 Welcome to the repository for my portfolio website! This project showcases my skills, experience, services i provide and projects as a developer.
 
