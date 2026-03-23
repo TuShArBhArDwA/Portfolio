@@ -70,15 +70,15 @@ export const gridItems = [
 ];
 
 export const projects = [
-  {
-    id: 9,
-    title: "MiniMock",
-    des: "Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.",
-    img: "/minianonmock.jpg",
-    iconLists: ["/next.svg", "/ts.svg", "/vercel.png"],
-    link: "https://minianonmock.vercel.app/",
+   {
+    id: 1,
+    title: "HireLens",
+    des: "AI-powered resume screening. Instantly rank candidates, spot skill gaps, and hire 10x faster.",
+    img: "/hirelens.png",
+    iconLists: ["/next.svg", "/ts.svg", "/cloud.svg", "/vercel.png"],
+    link: "https://hireelens.vercel.app/",
   },
-  {
+   {
     id: 2,
     title: "MiniLink",
     des: "Create your link-in-bio page in seconds. Free forever.",
@@ -87,7 +87,15 @@ export const projects = [
     link: "https://minianonlink.vercel.app/",
   },
   {
-    id: 1,
+    id: 3,
+    title: "MiniMock",
+    des: "Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.",
+    img: "/minianonmock.jpg",
+    iconLists: ["/next.svg", "/ts.svg", "/vercel.png"],
+    link: "https://minianonmock.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Weaave",
     des: "Build, connect, and deploy AI workflows visually — once you see it, you won’t go back",
     img: "/weaave.jpg",
@@ -96,7 +104,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 5,
     title: "MiniRizz",
     des: "Your AI Wingman for the digital age – never get left on read again",
     img: "/minirizz.jpg",
@@ -104,7 +112,7 @@ export const projects = [
     link: "https://minirizz.vercel.app/",
   },
   {
-    id: 4,
+    id: 6,
     title: "PulseAI Prep",
     des: "AI-driven interview preparation with mock interviews and feedback",
     img: "/pulse.png",
@@ -112,15 +120,7 @@ export const projects = [
     link: "https://ai-interview-platform-pink.vercel.app/",
   },
   {
-    id: 5,
-    title: "HireMe",
-    des: "Full-stack job portal for job discovery, applications, and recruiter postings",
-    img: "/hire.png",
-    iconLists: ["/react.png", "/cloudName.svg", "/js.png", "/tail.svg", "/html.png", "/vercel.png"],
-    link: "https://hireeme.vercel.app/",
-  },
-  {
-    id: 6,
+    id: 7,
     title: "AnonBeats",
     des: "Personal, ad-free music player for uploading tracks, building playlists, and streaming",
     img: "/beats.jpg",
@@ -128,7 +128,7 @@ export const projects = [
     link: "https://anon-beats.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Canvas Editor",
     des: "Minimal 2D canvas for ideas with instant cloud persistence",
     img: "/canvas.png",
@@ -136,7 +136,7 @@ export const projects = [
     link: "https://simple-canvas-editor.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Maze Solver",
     des: "An interactive maze generator and solver with multiple algorithms",
     img: "/path.png",
