@@ -76,7 +76,7 @@ export const projects = [
     des: "Transform your resume into a stunning portfolio in seconds. Free Forever.",
     img: "/shortlistme.jpeg",
     iconLists: ["/next.svg", "/ts.svg", "/cloud.svg", "/vercel.png"],
-    link: "https://shortlistme.vercel.app/",
+    link: "http://shortlistme.site",
   },
   {
     id: 10,
