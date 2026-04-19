@@ -70,6 +70,22 @@ export const gridItems = [
 ];
 
 export const projects = [
+  {
+    id: 11,
+    title: "ShortlistMe",
+    des: "Transform your resume into a stunning portfolio in seconds. Free Forever.",
+    img: "/shortlistme.jpeg",
+    iconLists: ["/next.svg", "/ts.svg", "/cloud.svg", "/vercel.png"],
+    link: "https://shortlistme.vercel.app/",
+  },
+  {
+    id: 10,
+    title: "AutoPress",
+    des: " Autonomous AI Editorial. Real Reporting. Independent Perspectives.",
+    img: "/autopress.jpeg",
+    iconLists: ["/next.svg", "/ts.svg", "/css.jpeg", "/vercel.png"],
+    link: "https://autoopress.vercel.app/",
+  },
    {
     id: 1,
     title: "HireLens",
