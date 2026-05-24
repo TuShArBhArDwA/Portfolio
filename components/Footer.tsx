@@ -39,7 +39,7 @@ const Footer = () => {
 
         <div className="flex items-center justify-center gap-4">
           <p className="md:text-base text-sm md:font-normal font-light">Find me on</p>
-          <Link href="https://minianonlink.vercel.app/tusharbhardwaj" target="_blank" rel="noopener noreferrer">
+          <Link href="https://link.minianon.in/tusharbhardwaj" target="_blank" rel="noopener noreferrer">
             <button className="px-6 py-2 rounded-full border border-white/20 bg-black-200/50 text-purple font-semibold hover:text-purple/80 hover:bg-white/10 hover:border-white/40 transition-all flex items-center justify-center gap-2 backdrop-blur-sm shadow-md">
               MiniLink
             </button>
