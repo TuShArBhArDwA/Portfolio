@@ -84,7 +84,7 @@ export const projects = [
     des: " Autonomous AI Editorial. Real Reporting. Independent Perspectives.",
     img: "/autopress.jpeg",
     iconLists: ["/next.svg", "/ts.svg", "/css.jpeg", "/vercel.png"],
-    link: "https://autoopress.vercel.app/",
+    link: "https://press.minianon.in",
   },
    {
     id: 1,
@@ -92,7 +92,7 @@ export const projects = [
     des: "AI-powered resume screening. Instantly rank candidates, spot skill gaps, and hire 10x faster.",
     img: "/hirelens.png",
     iconLists: ["/next.svg", "/ts.svg", "/cloud.svg", "/vercel.png"],
-    link: "https://hireelens.vercel.app/",
+    link: "https://lens.minianon.in",
   },
    {
     id: 2,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Create your link-in-bio page in seconds. Free forever.",
     img: "/minilink.png",
     iconLists: ["/next.svg", "/ts.svg", "/cloud.svg", "/vercel.png"],
-    link: "https://minianonlink.vercel.app/",
+    link: "https://link.minianon.in",
   },
   {
     id: 3,
@@ -108,7 +108,7 @@ export const projects = [
     des: "Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.",
     img: "/minianonmock.jpg",
     iconLists: ["/next.svg", "/ts.svg", "/vercel.png"],
-    link: "https://minianonmock.vercel.app/",
+    link: "https://mock.minianon.in",
   },
   {
     id: 4,
@@ -116,7 +116,7 @@ export const projects = [
     des: "Build, connect, and deploy AI workflows visually — once you see it, you won’t go back",
     img: "/weaave.jpg",
     iconLists: ["/next.svg", "/ts.svg", "/vercel.png"],
-    link: "https://weaave.vercel.app/",
+    link: "https://weaave.minianon.in",
   },
 
   {
@@ -125,7 +125,7 @@ export const projects = [
     des: "Your AI Wingman for the digital age – never get left on read again",
     img: "/minirizz.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://minirizz.vercel.app/",
+    link: "https://rizz.minianon.in",
   },
   {
     id: 6,
@@ -141,7 +141,7 @@ export const projects = [
     des: "Personal, ad-free music player for uploading tracks, building playlists, and streaming",
     img: "/beats.jpg",
     iconLists: ["/next.svg", "/ts.svg", "/vercel.png"],
-    link: "https://anon-beats.vercel.app/",
+    link: "https://beats.minianon.in",
   },
   {
     id: 8,
@@ -149,7 +149,7 @@ export const projects = [
     des: "Minimal 2D canvas for ideas with instant cloud persistence",
     img: "/canvas.png",
     iconLists: ["/react.png", "/firebase.jpg", "/js.png", "/vercel.png"],
-    link: "https://simple-canvas-editor.vercel.app/",
+    link: "https://canvas.minianon.in",
   },
   {
     id: 9,
