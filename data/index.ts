@@ -296,6 +296,15 @@ export const companies = [
 
 export const workExperience = [
   {
+    id: 6,
+    title: "Python Developer - Vitti Capital",
+    desc: "Working on real-time systems and AI-powered automated platforms involving WebSockets and low-latency data pipelines.",
+    className: "md:col-span-2",
+    thumbnail: "/vitti.jpeg",
+    date: "Mar 2026 - Present",
+    link: "https://vitti.capital",
+  },
+  {
     id: 1,
     title: "Industry Evangelist - Topmate",
     desc: "Mentored students on resumes, interviews, and career planning through structured 1:1 sessions. Conducted sessions focused on confidence-building and problem-solving.",
