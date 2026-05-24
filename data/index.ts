@@ -157,7 +157,7 @@ export const projects = [
     des: "An interactive maze generator and solver with multiple algorithms",
     img: "/path.png",
     iconLists: ["/js.png", "/css.jpeg", "/html.png", "/vercel.png"],
-    link: "https://mazesolve.vercel.app/",
+    link: "https://maze.minianon.in",
   },
 ];
 
