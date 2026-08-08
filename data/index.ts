@@ -168,63 +168,63 @@ export const articles = [
     title: "How I Secured a Microsoft Software Engineer Internship (2025)",
     des: "A detailed breakdown of my preparation strategy, interview rounds, and tips for cracking the Microsoft internship process.",
     img: "/microsoft.webp",
-    link: "https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce",
+    link: "https://medium.com/@minianon/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce",
   },
   {
     id: 2,
     title: "MiniLink — The Most Customizable Link-in-Bio Platform for Developers (2026)",
     des: "The story behind building MiniLink — a customizable link-in-bio platform for developers designed to showcase projects, social links, and personal branding with a clean and flexible UI.",
     img: "/minianonlink.jpg",
-    link: "https://medium.com/@bhardwajtushar2004/minilink-the-most-customizable-link-in-bio-platform-for-developers-2026-a4f0ceb94e0d",
+    link: "https://medium.com/@minianon/minilink-the-most-customizable-link-in-bio-platform-for-developers-2026-a4f0ceb94e0d",
   },
   {
     id: 3,
     title: "Stripe Technical Team Screen Interview Experience",
     des: "Sharing my experience with Stripe's technical screening, the questions asked, and how I approached the problem-solving aspect.",
     img: "/stripe.png",
-    link: "https://medium.com/@bhardwajtushar2004/stripe-technical-team-screen-interview-experience-3a6a9f958075",
+    link: "https://medium.com/@minianon/stripe-technical-team-screen-interview-experience-3a6a9f958075",
   },
   {
     id: 4,
     title: "CRED Backend Intern: Machine Coding Round Interview Experience",
     des: "Insights into the CRED machine coding round, focusing on code quality, design patterns, and handling edge cases effectively.",
     img: "/cred.png",
-    link: "https://medium.com/@bhardwajtushar2004/cred-backend-intern-machine-coding-round-interview-experience-66a3e28abb90",
+    link: "https://medium.com/@minianon/cred-backend-intern-machine-coding-round-interview-experience-66a3e28abb90",
   },
   {
     id: 5,
     title: "Inside Eightfold.ai’s Agentic AI Internship Hiring Process (2026)",
     des: "My journey through the Eightfold.ai hiring process for the Agentic AI role, covering the assessment and interview stages.",
     img: "/eightfold.png",
-    link: "https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8",
+    link: "https://medium.com/@minianon/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8",
   },
   {
     id: 6,
     title: "Optum Data Engineering Interview Experience (Mumbai)",
     des: "A comprehensive review of the Optum Data Engineering interview loop, including database concepts, SQL queries, and system design.",
     img: "/optum.png",
-    link: "https://medium.com/@bhardwajtushar2004/optum-data-engineering-interview-experience-mumbai-818b53371fde",
+    link: "https://medium.com/@minianon/optum-data-engineering-interview-experience-mumbai-818b53371fde",
   },
   {
     id: 7,
     title: "Trilogy Innovations Winter Internship 2026: On-Campus Interview Experience",
     des: "Recounting my on-campus interview experience with Trilogy Innovations, highlighting the challenging technical questions and rapid problem solving.",
     img: "/trilogy.png",
-    link: "https://medium.com/@bhardwajtushar2004/trilogy-innovations-winter-internship-2026-on-campus-interview-experience-7f2e243ac1c6",
+    link: "https://medium.com/@minianon/trilogy-innovations-winter-internship-2026-on-campus-interview-experience-7f2e243ac1c6",
   },
   {
     id: 8,
     title: "How to Collect Testimonials for Your Portfolio (A Simple Testimonial Wall for Developers)",
     des: "Why testimonials matter for developers and how I built a simple testimonial wall to easily collect, manage, and display feedback on a personal portfolio.",
     img: "/minianonvouch.png",
-    link: "https://medium.com/@bhardwajtushar2004/how-to-collect-testimonials-for-your-portfolio-a-simple-testimonial-wall-for-developers-8ceefa88d4a8",
+    link: "https://medium.com/@minianon/how-to-collect-testimonials-for-your-portfolio-a-simple-testimonial-wall-for-developers-8ceefa88d4a8",
   },
   {
     id: 9,
     title: "How to Create Realistic Chat Mockups (Without Photoshop or Watermarks) -The Modern Way",
     des: "A guide to creating realistic chat screenshots for demos, presentations, and social media using modern tools—without Photoshop, design skills, or watermark-heavy apps.",
     img: "/minianonmock.jpg",
-    link: "https://medium.com/@bhardwajtushar2004/how-to-create-realistic-chat-mockups-without-photoshop-or-watermarks-the-modern-way-7fd93939bdb5",
+    link: "https://medium.com/@minianon/how-to-create-realistic-chat-mockups-without-photoshop-or-watermarks-the-modern-way-7fd93939bdb5",
   },
 ];
 
@@ -355,17 +355,17 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/TuShArBhArDwA",
+    link: "https://github.com/minianon",
   },
   {
     id: 2,
     img: "/x-logo.avif",
-    link: "https://x.com/Tusharab2004",
+    link: "https://x.com/minianondev",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/bhardwajtushar2004/",
+    link: "https://www.linkedin.com/in/minianon",
   },
   {
     id: 4,
@@ -375,7 +375,7 @@ export const socialMedia = [
   {
     id: 5,
     img: "/medium.svg",
-    link: "https://medium.com/@bhardwajtushar2004",
+    link: "https://medium.com/@minianon",
   },
 ];
 
@@ -383,7 +383,7 @@ export const codingProfiles = [
   {
     id: 1,
     name: "LeetCode",
-    url: "https://leetcode.com/u/Tusharr2004/",
+    url: "https://leetcode.com/u/minianon",
     logo: "/leetcode-logo.svg",
     statsImage: "/leetcode.jpg",
     description: "Solved over 1150 questions with a streak of 840 days.",
@@ -399,7 +399,7 @@ export const codingProfiles = [
   {
     id: 3,
     name: "CodeChef",
-    url: "https://www.codechef.com/users/tushar2004b",
+    url: "https://www.codechef.com/users/minianon",
     logo: "/codelogo.svg",
     statsImage: "/codechef.jpg",
     // logo: "/codechef.jfif",
@@ -422,7 +422,7 @@ export const interviewPlaybooks = [
     description: "Designing systems at scale and preparing for system design interviews.",
     img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3lzdGVtJTIwZGVzaWdufGVufDB8fDB8fHww",
     content: "Master the art of designing scalable, reliable, and maintainable systems. Covers concepts like Load Balancing, Caching, Database Sharding, CAP Theorem, and High-Level Design (HLD) interviews.",
-    link: "https://github.com/TuShArBhArDwA/System-Design",
+    link: "https://github.com/minianon/System-Design",
   },
   {
     id: 2,
@@ -430,7 +430,7 @@ export const interviewPlaybooks = [
     description: "OS fundamentals distilled for quick revision.",
     img: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b3BlcmF0aW5nJTIwc3lzdGVtfGVufDB8fDB8fHww",
     content: "A concise guide to Operating Systems. Key topics include Process Management, Memory Management, Concurrency, Deadlocks, and File Systems. Perfect for last-minute revisions.",
-    link: "https://github.com/TuShArBhArDwA/1Shot-OS",
+    link: "https://github.com/minianon/1Shot-OS",
   },
   {
     id: 3,
@@ -438,7 +438,7 @@ export const interviewPlaybooks = [
     description: "DBMS concepts for interview preparation.",
     img: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0YWJhc2V8ZW58MHx8MHx8fDA%3D",
     content: "Everything you need to know about DBMS: ACID properties, Normalization, Indexing, Transactions, and SQL vs NoSQL. Essential for backend roles.",
-    link: "https://github.com/TuShArBhArDwA/1Shot-DBMS",
+    link: "https://github.com/minianon/1Shot-DBMS",
   },
   {
     id: 4,
@@ -446,7 +446,7 @@ export const interviewPlaybooks = [
     description: "Networking essentials in a one-shot format.",
     img: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop",
     content: "Deep dive into Computer Networks. Covers the OSI Model, TCP/IP, HTTP/HTTPS, DNS, and network security protocols. Simplified for interview success.",
-    link: "https://github.com/TuShArBhArDwA/1Shot-CN",
+    link: "https://github.com/minianon/1Shot-CN",
   },
   {
     id: 5,
@@ -454,7 +454,7 @@ export const interviewPlaybooks = [
     description: "SQL concepts and patterns for interviews.",
     img: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2076&auto=format&fit=crop",
     content: "Master SQL queries, joins, subqueries, and window functions. Includes common interview problems and optimization techniques.",
-    link: "https://github.com/TuShArBhArDwA/1Shot-SQL",
+    link: "https://github.com/minianon/1Shot-SQL",
   },
   {
     id: 6,
@@ -462,7 +462,7 @@ export const interviewPlaybooks = [
     description: "OOPS revision with C++ examples.",
     img: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D",
     content: "Understand the four pillars of OOP: Encapsulation, Abstraction, Inheritance, and Polymorphism. Explained with real-world examples and C++ code snippets.",
-    link: "https://github.com/TuShArBhArDwA/1Shot-OOPS",
+    link: "https://github.com/minianon/1Shot-OOPS",
   },
   {
     id: 7,
@@ -470,7 +470,7 @@ export const interviewPlaybooks = [
     description: "Behavioral questions and structured answers.",
     img: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW50ZXJ2aWV3fGVufDB8fDB8fHww",
     content: "Prepare for the behavioral round with confidence. Learn how to answer 'Tell me about yourself', 'Strength and Weakness', and STAR method questions.",
-    link: "https://github.com/TuShArBhArDwA/Most-common-HR-interview-questions",
+    link: "https://github.com/minianon/Most-common-HR-interview-questions",
   },
   {
     id: 8,
@@ -478,7 +478,7 @@ export const interviewPlaybooks = [
     description: "Expectations, preparation, and growth.",
     img: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dGVhbXxlbnwwfHwwfHx8MA%3D%3D",
     content: "A curated list of resources for Senior roles. Focuses on leadership, architecture, mentorship, and navigating complex engineering challenges.",
-    link: "https://github.com/TuShArBhArDwA/Resources-for-Senior-Software-Engineer",
+    link: "https://github.com/minianon/Resources-for-Senior-Software-Engineer",
   },
   {
     id: 9,
@@ -486,7 +486,7 @@ export const interviewPlaybooks = [
     description: "Curated problems by company.",
     img: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2dyYW1taW5nfGVufDB8fDB8fHww",
     content: "Target specific companies with curated LeetCode problem lists. Includes Top 50 questions for Amazon, Google, Microsoft, and more.",
-    link: "https://github.com/TuShArBhArDwA/LeetCode-Questions-CompanyWise",
+    link: "https://github.com/minianon/LeetCode-Questions-CompanyWise",
   },
   {
     id: 10,
@@ -494,7 +494,7 @@ export const interviewPlaybooks = [
     description: "Practical Git & GitHub essentials.",
     img: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2l0aHVifGVufDB8fDB8fHww",
     content: "Master version control with Git and GitHub. Covers branching, merging, pull requests, resolving conflicts, and CI/CD basics.",
-    link: "https://github.com/TuShArBhArDwA/github_basics",
+    link: "https://github.com/minianon/github_basics",
   },
   {
     id: 11,
