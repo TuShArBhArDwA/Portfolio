@@ -79,7 +79,7 @@ const RecentProjects = () => {
         ))}
       </div>
       <div className="mt-16 flex justify-center w-full">
-        <Link href="https://github.com/TuShArBhArDwA" target="_blank">
+        <Link href="https://github.com/minianon" target="_blank">
           <Button
             borderRadius="1.75rem"
             className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
