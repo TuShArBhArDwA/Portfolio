@@ -93,7 +93,7 @@ const Hero = () => {
                         <a href="#projects" className="w-full sm:w-auto flex justify-center">
                             <MagicButton title="View Projects" icon={<FaArrowDown />} position="right" />
                         </a>
-                        <a href="https://drive.google.com/file/d/15bakmDxA3yH8f2TJfzv6_impnLvTPM73/view" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto flex justify-center">
+                        <a href="https://drive.google.com/file/d/1w6fP3aL1qzg8SXLn6HoOZSUUXY5QG3gd/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto flex justify-center">
                             <button className="relative inline-flex h-12 w-full overflow-hidden rounded-lg border border-white/20 bg-white/5 px-7 text-sm font-medium text-white hover:bg-white/10 transition-colors focus:outline-none md:w-60 items-center justify-center gap-2 backdrop-blur-sm">
                                 View Resume <FaExternalLinkAlt />
                             </button>
